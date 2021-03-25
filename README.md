@@ -11,10 +11,10 @@
 
 ### 🛠 Tech Stack 🛠 
 ##### Tech that I've used at least once
-
+(미완)
 
 ##### Interested and often used
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp; 
+(미완)
 
 
 ### ✨ About Me ✨
