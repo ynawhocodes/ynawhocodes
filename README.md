@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp; 
 
 
-<center> 📂 Me 📂 </center>
-<center>dsdsd</center>
+
+<div style="text-align: center"> f<div>
 
 **2018** SSWU Computer Engineering
 
