@@ -1,20 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fynawhocodes%2Fhit-counter&count_bg=%23C1C1C1&title_bg=%23555555&icon=&icon_color=%23EEEEEE&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-### 🛠 Tech Stack 🛠 
-##### Tech that I've used at least once
-(미완)
-
-##### Interested and often used
-(미완)
-
-
-### ✨ About Me ✨
-
-- **(~ing)** SSWU Computer Engineering
-
-- **(~ing)** MUSINSA Web develop Intern
-
 ### 📩 Contact 📩
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yanwhocodes@gmail.com)](mailto:ynawhocodes@gmail.com)
  
