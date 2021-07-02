@@ -34,7 +34,7 @@ I'm familiar with
   - [Plantary](https://github.com/Plantary/PlantaryBP): 반려식물계의 육아일기 `팀`
 
  ### 2021
-  - [special issue auto](): MUSINSA 개인 작업 자동화 `개인`
+  - [special issue auto](): MUSINSA 담당 작업 자동화 `개인`
   - [Survivey](): 진행중 `팀`
 
 
