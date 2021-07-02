@@ -20,10 +20,10 @@ I'm familiar with
 **Double**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Service Design Engineering
 
 ## :people_holding_hands: Activities
-**2021**&nbsp;&nbsp;&nbsp;|&nbsp;멋쟁이사자처럼 성신여자대학교 대표
+**2021**&nbsp;&nbsp;|&nbsp;멋쟁이사자처럼 성신여자대학교 대표
 
 ## :briefcase: Employment
-**2021.01~2022.02**   |&nbsp; **MUSINSA** Frontend Development Team Intern
+**2021.01~2022.02**&nbsp;&nbsp;|&nbsp; **MUSINSA** Frontend Development Team Intern
 
 
 ## :comet: Project  
