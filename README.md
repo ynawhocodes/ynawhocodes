@@ -1,4 +1,4 @@
-![top](https://capsule-render.vercel.app/api?type=waving&color=d5d5d5&height=270&section=header&text=YANG&fontSize=300&fontColor=000&animation=fadeIn&fontAlignY=38&desc=who%20wants%20%20to%20be%20___________&descAlignY=95&descAlign=82)  
+![top](https://capsule-render.vercel.app/api?type=waving&color=d5d5d5&height=270&section=header&text=YANG&fontSize=300&fontColor=000&animation=fadeIn&fontAlignY=38&desc=@ynawhocodes&descAlignY=95&descAlign=82)  
 <!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
