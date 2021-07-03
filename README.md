@@ -16,7 +16,7 @@ I'm familiar with
 
 ## :pencil2: Edu
 **2018.03~** |&nbsp;&nbsp;&nbsp;**Sungshin Women's University**  
-**Major**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Computer Engineerig    
+**Major**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Computer Engineering    
 **Double**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Service Design Engineering
 
 ## :people_holding_hands: Activities
