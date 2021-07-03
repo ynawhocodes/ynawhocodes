@@ -1,4 +1,5 @@
-![top](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=200&section=header&text=YANG&fontSize=350&fontColor=000&animation=fadeIn&fontAlignY=28&desc=@ynawhocodes&descAlignY=80&descAlign=90)  
+<!-- ![top](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=150&section=header&text=YANG&fontSize=350&fontColor=000&animation=fadeIn&fontAlignY=50&desc=@ynawhocodes&descAlignY=80&descAlign=90)   -->
+![top](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=150&section=header&text=YANG&fontSize=350&fontColor=000&animation=fadeIn&fontAlignY=50)  
 <!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -6,12 +7,12 @@
     
   </a>
 </p>-->
-## :mountain_snow: Tech Stack
+<!-- ## :mountain_snow: Tech Stack
 These are the languages and tools I've used at least once.    
 `미완`    
 I'm familiar with    
 `미완`    
-
+ -->
 ## :pencil2: Edu
 **2018.03~** |&nbsp;&nbsp;&nbsp;**Sungshin Women's University**  
 **Major**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Computer Engineering    
@@ -22,7 +23,6 @@ I'm familiar with
 
 ## :briefcase: Employment
 **2021.01~2022.02**&nbsp;&nbsp;|&nbsp; **MUSINSA** Frontend Development Team Intern
-
 
 ## :comet: Project  
 `소개글 작성 후 공개로 전환 예정` 
