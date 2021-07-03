@@ -1,4 +1,4 @@
-![top](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=270&section=header&text=YANG&fontSize=400&fontColor=000&animation=fadeIn&fontAlignY=38&desc=@ynawhocodes&descAlignY=95&descAlign=82)  
+![top](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=200&section=header&text=YANG&fontSize=350&fontColor=000&animation=fadeIn&fontAlignY=28&desc=@ynawhocodes&descAlignY=80&descAlign=90)  
 <!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -6,8 +6,6 @@
     
   </a>
 </p>-->
-<br>
-
 ## :mountain_snow: Tech Stack
 These are the languages and tools I've used at least once.    
 `미완`    
