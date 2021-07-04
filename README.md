@@ -23,7 +23,7 @@ I'm familiar with
 
 ## :briefcase: Employment
 **2021.01~2022.02**&nbsp;&nbsp;|&nbsp; **MUSINSA** Frontend Development Team Intern
-
+<!-- 
 ## :comet: Project  
 `소개글 작성 후 공개로 전환 예정` 
 ### 2020
@@ -34,7 +34,7 @@ I'm familiar with
  ### 2021
   - [special issue auto](): MUSINSA 담당 작업 자동화 `개인`
   - [Survivey](): 진행중 `팀`
-
+ -->
 
 ## 📩 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yanwhocodes@gmail.com)](mailto:ynawhocodes@gmail.com)
