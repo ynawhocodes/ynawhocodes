@@ -1,5 +1,5 @@
 <!-- ![top](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=150&section=header&text=YANG&fontSize=350&fontColor=000&animation=fadeIn&fontAlignY=50&desc=@ynawhocodes&descAlignY=80&descAlign=90)   -->
-![top](https://capsule-render.vercel.app/api?type=waving&color=e1e1e1&height=150&section=header&text=YANG&fontSize=350&fontColor=000&animation=fadeIn&fontAlignY=50)  
+![top](https://capsule-render.vercel.app/api?type=waving&color=ffffffff&height=150&section=header&text=YANG&fontSize=300&fontColor=000&animation=fadeIn&fontAlignY=50)  
 <!--
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,15 +13,15 @@ These are the languages and tools I've used at least once.
 I'm familiar with    
 `미완`    
  -->
-## :pencil2: Edu
-**2018.03~** |&nbsp;&nbsp;&nbsp;**Sungshin Women's University**  
-**Major**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Computer Engineering    
-**Double**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Service Design Engineering
+## Edu
+**2018**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sungshin Women's University**  
+**Major**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Engineering    
+**Double**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Service Design Engineering
 
-## :people_holding_hands: Activities
+## Activities
 **2021**&nbsp;&nbsp;|&nbsp;멋쟁이사자처럼 성신여자대학교 대표
 
-## :briefcase: Employment
+## Employment
 **2021.01~2022.02**&nbsp;&nbsp;|&nbsp; **MUSINSA** Frontend Development Team Intern
 <!-- 
 ## :comet: Project  
@@ -36,8 +36,8 @@ I'm familiar with
   - [Survivey](): 진행중 `팀`
  -->
 
-## 📩 Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yanwhocodes@gmail.com)](mailto:ynawhocodes@gmail.com)
+<!--## Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yanwhocodes@gmail.com)](mailto:ynawhocodes@gmail.com)-->
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
