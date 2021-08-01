@@ -13,6 +13,9 @@ These are the languages and tools I've used at least once.
 I'm familiar with    
 `미완`    
  -->
+ 
+ 
+<!--  
 ## Edu
 **2018**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sungshin Women's University**  
 **Major**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Engineering    
@@ -22,7 +25,9 @@ I'm familiar with
 **2021**&nbsp;&nbsp;|&nbsp;멋쟁이사자처럼 성신여자대학교 대표
 
 ## Employment
-**2021.01~2022.02**&nbsp;&nbsp;|&nbsp; **MUSINSA** Frontend Development Team Intern
+**2021.01~2022.02**&nbsp;&nbsp;|&nbsp; **MUSINSA** Frontend Development Team Intern -->
+
+
 <!-- 
 ## :comet: Project  
 `소개글 작성 후 공개로 전환 예정` 
